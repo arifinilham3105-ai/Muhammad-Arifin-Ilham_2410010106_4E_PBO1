@@ -224,44 +224,25 @@ try{
 }
 ```
 
-## Konsep OOP yang Digunakan
+## Usulan nilai
 
-| No | Materi | Implementasi |
-|:--:|---------|---------------|
-| 1 | Class | `Barang`, `Transaksi`, `Main` |
-| 2 | Object | `new Transaksi()` |
-| 3 | Attribute | `kode`, `nama`, `harga`, `jumlah` |
-| 4 | Constructor | Constructor `Barang` dan `Transaksi` |
-| 5 | Mutator | Method Setter |
-| 6 | Accessor | Method Getter |
-| 7 | Encapsulation | Attribute menggunakan `private` |
-| 8 | Inheritance | `Transaksi extends Barang` |
-| 9 | Polymorphism | Override method `tampilData()` |
-| 10 | Seleksi | `if-else` |
-| 11 | Perulangan | `for` |
-| 12 | IO Sederhana | `Scanner` |
-| 13 | Array | `Transaksi[]` |
-| 14 | Error Handling | `try-catch` |
-
-## Usulan Nilai
-
-| No | Materi | Nilai |
-|:--:|------------------|:-----:|
-| 1 | Class | 5 |
-| 2 | Object | 5 |
-| 3 | Attribute | 5 |
-| 4 | Constructor | 5 |
-| 5 | Mutator | 5 |
-| 6 | Accessor | 5 |
-| 7 | Encapsulation | 5 |
-| 8 | Inheritance | 5 |
-| 9 | Polymorphism | 10 |
-| 10 | Seleksi | 5 |
-| 11 | Perulangan | 5 |
-| 12 | IO Sederhana | 10 |
-| 13 | Array | 15 |
-| 14 | Error Handling | 15 |
-| **Total** | **100** | **100** |
+| No  | Materi         |  Nilai  |
+| :-: | -------------- | :-----: |
+|  1  | Class          |    5    |
+|  2  | Object         |    5    |
+|  3  | Atribut        |    5    |
+|  4  | Constructor    |    5    |
+|  5  | Mutator        |    5    |
+|  6  | Accessor       |    5    |
+|  7  | Encapsulation  |    5    |
+|  8  | Inheritance    |    5    |
+|  9  | Polymorphism   |   10    |
+| 10  | Seleksi        |    5    |
+| 11  | Perulangan     |    5    |
+| 12  | IO Sederhana   |   10    |
+| 13  | Array          |   15    |
+| 14  | Error Handling |   15    |
+|     | **TOTAL**      | **100** |
 
 ## Pembuat
 
